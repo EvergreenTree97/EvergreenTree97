@@ -2,6 +2,8 @@
 <h3 align="center">README를 채우기 위해 노력중입니다.</h3>
 
 - 🔭 2020.11 ~ 2021.03 **세모자(SMJ) 앱 개발**
+- 📫 tkdfhr7497@naver.com
+- ⚡ 취린이
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
