@@ -3,7 +3,7 @@
 
 - 🔭 2020.11 ~ 2021.03 **세모자(SMJ) 앱 개발**
 - 📫 tkdfhr7497@naver.com
-- ⚡ 취린이!!
+- ⚡ 취린이
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
