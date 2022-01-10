@@ -9,9 +9,8 @@
 <img src="https://img.shields.io/badge/Git-11B48A?style=flat-square&logo=Git&logoColor=white&color=F05032"/></a>
 <img src="https://img.shields.io/badge/C%2B%2B-11B48A?style=flat-square&logo=C%2B%2B&logoColor=white&color=00599C"/></a>
 <h4>🤝 Contact 🤝</h4>
-<img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Instagram&logoColor=white&color=E4405F&link=https://www.instagram.com/evergreen_tree_97"/></a>
-<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@evergreen_tree"/></a>
-<img src="https://img.shields.io/badge/Gmail-11B48A?style=flat-square&logo=Gmail&logoColor=white&color=EA4335&link=https://www.instagram.com/evergreen_tree_97"/></a>
+<img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Instagram&logoColor=white&color=E4405F&link=https://www.instagram.com/evergreen_tree_97/"/></a>
+<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@evergreen_tree/"/></a>
 <h4>:pushpin: 2020.11 ~ 2021.03 세모자(SMJ) 앱 개발</h4>
 <h4>:pushpin: 2021.09 ~ 2021.11 딥러닝 기반의 생활폐기물 분류 앱 개발</h4>
 <br>
