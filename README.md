@@ -17,6 +17,5 @@
 <h4>:pushpin: 2020.11 ~ 2021.03 세모자(SMJ) 앱 개발</h4>
 <h4>:pushpin: 2021.09 ~ 2021.11 딥러닝 기반의 생활폐기물 분류 앱 개발</h4>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evergreentree97&show_icons=true&locale=en&layout=compact" alt="evergreentree97" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=evergreentree97&show_icons=true&locale=en" alt="evergreentree97" /></p>
 </div>
