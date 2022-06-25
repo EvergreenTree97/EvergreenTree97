@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Instagram&logoColor=white&color=E4405F&link=https://www.instagram.com/evergreen_tree_97/"/></a>
 <a href = "https://velog.io/@evergreen_tree/">
   <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@evergreen_tree/"/></a>
-<h4>:pushpin: 2022.01 ~ 2022.05 PlayBridge 앱 개발</h4>
-<h4>:pushpin: 2021.09 ~ 2021.11 딥러닝 기반의 생활폐기물 분류 앱 개발</h4>
-<h4>:pushpin: 2020.11 ~ 2021.03 세모자(SMJ) 앱 개발</h4>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=evergreentree97&show_icons=true&locale=en" alt="evergreentree97" /></p>
 </div>
