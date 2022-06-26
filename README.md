@@ -5,8 +5,6 @@
 <img src="https://img.shields.io/badge/Android-11B48A?style=flat-square&logo=Android&logoColor=white&color=3DDC84"/></a>
 <img src="https://img.shields.io/badge/Java-11B48A?style=flat-square&logo=Java&logoColor=white&color=007396"/></a>
 <img src="https://img.shields.io/badge/Kotlin-11B48A?style=flat-square&logo=Kotlin&logoColor=white&color=7F52FF"/></a>
-<img src="https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&logoColor=white&color=A8B9CC"/></a>
-<img src="https://img.shields.io/badge/C%23-11B48A?style=flat-square&logo=C Sharp&logoColor=white&color=00599C"/></a>
 <img src="https://img.shields.io/badge/Git-11B48A?style=flat-square&logo=Git&logoColor=white&color=F05032"/></a>
 <img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white&color=000000"/></a>
 <h4>🤝 Contact 🤝</h4>
