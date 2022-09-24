@@ -8,7 +8,7 @@
 
 <h3>🏃‍♀️ Activity 🏃‍</h3>
 
-<img src="https://user-images.githubusercontent.com/70064912/192104232-022954a2-4cc7-4fe8-861e-5a83a1a49e30.png" width="50" height="50">
+[<img src="https://user-images.githubusercontent.com/70064912/192104232-022954a2-4cc7-4fe8-861e-5a83a1a49e30.png" width="50" height="50">](http://teamnexters.com/)
 
 <h3>🛠 Tech Stack 🛠</h3>
 <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white&color=000000"/></a>
