@@ -15,8 +15,6 @@
 <img src="https://img.shields.io/badge/Android-11B48A?style=flat-square&logo=Android&logoColor=white&color=3DDC84"/></a>
 <img src="https://img.shields.io/badge/Java-11B48A?style=flat-square&logo=Java&logoColor=white&color=007396"/></a>
 <img src="https://img.shields.io/badge/Kotlin-11B48A?style=flat-square&logo=Kotlin&logoColor=white&color=7F52FF"/></a>
-<img src="https://img.shields.io/badge/Git-11B48A?style=flat-square&logo=Git&logoColor=white&color=F05032"/></a>
-<img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white&color=000000"/></a>
 <h3>🤝 Contact 🤝</h4>
 <a href = "https://www.instagram.com/evergreen_tree_97/">
 <img src="https://img.shields.io/badge/Instagram-11B48A?style=flat-square&logo=Instagram&logoColor=white&color=E4405F&link=https://www.instagram.com/evergreen_tree_97/"/></a>
