@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<h3>🌱 Portfolio 🌱</h3>
-
-[<img src="https://user-images.githubusercontent.com/70064912/192103166-4a5a55a5-790f-41db-8cd4-7b1e62bfb08c.svg" width="50" height="50">](https://maroon-creator-b61.notion.site/fdd9b5cf9eb64e4d9e146d6ce56083a6)
-
 <h3>🏃‍♀️ Activity 🏃‍</h3>
 
 [<img src="https://user-images.githubusercontent.com/70064912/192104232-022954a2-4cc7-4fe8-861e-5a83a1a49e30.png" width="50" height="50">](http://teamnexters.com/)
